@@ -1,6 +1,13 @@
 html {
     background-color: #080808;
-    color: #f0f0f0;
     font-size: 16px;
     font-family: "Anuphan", serif;
+}
+
+h1 {
+    color: #f3b42c;
+}
+
+p {
+    color: #f0f0f0;
 }
