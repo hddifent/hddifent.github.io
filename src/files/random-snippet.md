@@ -1,7 +1,5 @@
 # Random Code Snippets
 
-<details> <summary> : loop through a dictionary in python </summary>
-
 ## : loop through a dictionary in python
 
 ```py
@@ -30,5 +28,3 @@ Key: Stelle - Value: 84
 Key: Pela - Value: 93
 Key: Serval - Value: 67
 ```
-
-</details>
